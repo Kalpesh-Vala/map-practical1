@@ -1,1 +1,4 @@
 This file is created to practice basic commands of gits.
+changes---
+This changes are done to practice merge.
+
