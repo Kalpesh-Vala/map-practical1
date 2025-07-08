@@ -1,1 +1,1 @@
-A new feature is created. Now it can be pushed and merged with the original branch.
+A new feature is created. Now it can be pushed and merged with the original branch.New text added
