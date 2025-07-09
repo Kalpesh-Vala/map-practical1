@@ -1,2 +1,6 @@
+//trying to create a merge conflict changed this lines
+changes---
+This changes are done to practice merge.
 new line added to create conflict 
 This file is created to practice basic commands of gits.
+
